@@ -1,0 +1,84 @@
+Location	Date	Lineage	Proportion
+Canada	Nov21	Alpha	0
+Canada	Nov21	Delta	0.8571428571
+Canada	Nov21	Omicron (BA.1)	0
+Canada	Nov21	Omicron (BA.2)	0
+Canada	Nov21	Other	0.1428571429
+Canada	Dec21	Alpha	0
+Canada	Dec21	Delta	0.8515360957
+Canada	Dec21	Omicron (BA.1)	0
+Canada	Dec21	Omicron (BA.2)	0
+Canada	Dec21	Other	0.1484639043
+Canada	Jan22	Alpha	0
+Canada	Jan22	Delta	0.03589439082
+Canada	Jan22	Omicron (BA.1)	0.9261184809
+Canada	Jan22	Omicron (BA.2)	0
+Canada	Jan22	Other	0.0379871283
+Canada	Feb22	Alpha	0
+Canada	Feb22	Delta	0
+Canada	Feb22	Omicron (BA.1)	0.9384989156
+Canada	Feb22	Omicron (BA.2)	0
+Canada	Feb22	Other	0.06150108436
+US	Nov21	Alpha	0
+US	Nov21	Beta	0
+US	Nov21	Gamma	0
+US	Nov21	Delta	0.4983560286
+US	Nov21	Omicron (BA.1)	0
+US	Nov21	Omicron (BA.2)	0
+US	Nov21	Other	0.5016439714
+US	Jan22	Alpha	0
+US	Jan22	Beta	0
+US	Jan22	Gamma	0
+US	Jan22	Delta	0.001159980062
+US	Jan22	Omicron (BA.1)	0.966075559
+US	Jan22	Omicron (BA.2)	0
+US	Jan22	Other	0.03276446096
+US	Feb22	Alpha	0
+US	Feb22	Beta	0
+US	Feb22	Gamma	0
+US	Feb22	Delta	0
+US	Feb22	Omicron (BA.1)	0.9792638037
+US	Feb22	Omicron (BA.2)	0
+US	Feb22	Other	0.02073619632
+US	Mar22	Alpha	0
+US	Mar22	Beta	0
+US	Mar22	Gamma	0
+US	Mar22	Delta	0
+US	Mar22	Omicron (BA.1)	0.4116689976
+US	Mar22	Omicron (BA.2)	0
+US	Mar22	Other	0.5883310024
+US	Apr22	Alpha	0
+US	Apr22	Beta	0
+US	Apr22	Gamma	0
+US	Apr22	Delta	0.0006625887696
+US	Apr22	Omicron (BA.1)	0
+US	Apr22	Omicron (BA.2)	0.2977031993
+US	Apr22	Other	0.701634212
+US	May22	Alpha	0
+US	May22	Beta	0
+US	May22	Gamma	0
+US	May22	Delta	0.001042846044
+US	May22	Omicron (BA.1)	0
+US	May22	Omicron (BA.2)	0.7043994271
+US	May22	Other	0.2945577269
+US	Jun22	Alpha	0
+US	Jun22	Beta	0
+US	Jun22	Gamma	0
+US	Jun22	Delta	0.1115942029
+US	Jun22	Omicron (BA.1)	0
+US	Jun22	Omicron (BA.2)	0.4157014157
+US	Jun22	Other	0.4727043814
+US	Jul22	Alpha	0
+US	Jul22	Beta	0.001044610768
+US	Jul22	Gamma	0
+US	Jul22	Delta	0.4360171799
+US	Jul22	Omicron (BA.1)	0
+US	Jul22	Omicron (BA.2)	0.1438025542
+US	Jul22	Other	0.4191356552
+US	Aug22	Alpha	0.0001272588445
+US	Aug22	Beta	0.00145327153
+US	Aug22	Gamma	0
+US	Aug22	Delta	0.4969266124
+US	Aug22	Omicron (BA.1)	0
+US	Aug22	Omicron (BA.2)	0.03053952115
+US	Aug22	Other	0.4709533361

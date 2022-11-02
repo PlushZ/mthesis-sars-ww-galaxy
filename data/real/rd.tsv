@@ -1,0 +1,10 @@
+	Library Strategy	Sequencing platform	# of samples
+0	Ampliconic	BGISEQ	48
+1	Ampliconic	DNBSEQ	59
+2	Ampliconic	ILLUMINA	8293
+3	RNA-Seq	ILLUMINA	173
+4	Targeted-Capture	ILLUMINA	11
+5	WGS	ILLUMINA	5146
+6	Ampliconic	ION_TORRENT	65
+7	Ampliconic	OXFORD_NANOPORE	169
+8	WGS	OXFORD_NANOPORE	122
